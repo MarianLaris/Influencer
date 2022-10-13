@@ -3,7 +3,7 @@
 []: # Title: Influencer
 []: # Version: 0.1.0
 []: # Date: 2022-10-04
-[]: # Authors: [GoldLCD]
+[]: # Authors: [Niraja  Karki]
 
 ## Scraping and autopmation for influencer with user interface
 
